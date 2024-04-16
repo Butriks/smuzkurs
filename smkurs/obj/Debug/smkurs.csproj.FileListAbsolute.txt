@@ -1,0 +1,14 @@
+D:\smkurs\smkurs\obj\Debug\smkurs.csproj.AssemblyReference.cache
+D:\smkurs\smkurs\obj\Debug\MainWindow.baml
+D:\smkurs\smkurs\obj\Debug\MainWindow.g.cs
+D:\smkurs\smkurs\obj\Debug\App.g.cs
+D:\smkurs\smkurs\obj\Debug\smkurs_MarkupCompile.cache
+D:\smkurs\smkurs\obj\Debug\smkurs.g.resources
+D:\smkurs\smkurs\obj\Debug\smkurs.Properties.Resources.resources
+D:\smkurs\smkurs\obj\Debug\smkurs.csproj.GenerateResource.cache
+D:\smkurs\smkurs\obj\Debug\smkurs.csproj.CoreCompileInputs.cache
+D:\smkurs\smkurs\bin\Debug\smkurs.exe.config
+D:\smkurs\smkurs\bin\Debug\smkurs.exe
+D:\smkurs\smkurs\bin\Debug\smkurs.pdb
+D:\smkurs\smkurs\obj\Debug\smkurs.exe
+D:\smkurs\smkurs\obj\Debug\smkurs.pdb
