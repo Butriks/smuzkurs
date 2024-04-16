@@ -8,5 +8,8 @@ namespace smkurs
 {
     internal class Completed_repairs
     {
+        public DateTime date_of_complete;
+        public Repair_requests request;
+
     }
 }

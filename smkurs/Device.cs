@@ -8,5 +8,9 @@ namespace smkurs
 {
     internal class Device
     {
+        public int Id;
+        private string description;
+        private string model;
+        public float cost;
     }
 }

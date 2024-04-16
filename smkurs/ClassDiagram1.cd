@@ -1,2 +1,46 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ClassDiagram /> 
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="smkurs.Client">
+    <Position X="5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAEAAAAAAAAAAEAAgEAAAAAgAAAgA=</HashCode>
+      <FileName>Client.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="smkurs.Completed_repairs">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Completed_repairs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="smkurs.Repair_requests">
+    <Position X="9.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAgAAAQAAAgA=</HashCode>
+      <FileName>Repair_requests.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="smkurs.Device">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAIAAAAAAAAAAQAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Device.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="smkurs.Customers">
+    <Position X="7.25" Y="0.75" Width="1.5" />
+    <NestedTypes>
+      <Class Name="smkurs.Customers.order" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Customers.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAACAAAAAAAEAAAAAAAAAAAAAgQ=</HashCode>
+      <FileName>Customers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
