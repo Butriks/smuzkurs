@@ -5,6 +5,13 @@
         Background="LightBlue">
 
     <Grid>
+        <TextBlock Text="Ремонт оргтехники" 
+           FontSize="36" 
+           FontWeight="Bold"
+           HorizontalAlignment="Center"
+           VerticalAlignment="Top"
+           Margin="0,5,0,0"
+           Foreground="#000080"/>
         <TextBlock Text="Зарегистрируйтесь" 
                    FontSize="36" 
                    FontWeight="Bold"
